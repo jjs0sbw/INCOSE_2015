@@ -5,4 +5,7 @@ covers a wide range of material associated with the work of Systems Concepts.
 This associated material includes the following papers presented at INCOSE 2015:
 
 ### Foundational Aspects of System Complexity Reduction
-[Link to paper on Research Gate: ](https://www.researchgate.net/publication/279205085_Foundational_Aspects_of_System_Complexity_Reduction)
+[Link to paper on Research Gate:] (https://www.researchgate.net/publication/279205085_Foundational_Aspects_of_System_Complexity_Reduction)
+[Link to presentation charts on Research Gate:] (https://www.researchgate.net/publication/279204985_Foundational_Aspects_of_System_Complexity_Reduction)
+
+### A
