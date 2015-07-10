@@ -37,3 +37,12 @@ This associated material includes the following papers presented at INCOSE 2015:
 
 ### GitHub Basic Structural Modeling Repository:
 [GitHub Repository:] (https://github.com/jjs0sbw/bsmp)
+
+### GitHub Structural Modeling Repository:
+[GitHub Repository:] (https://github.com/jjs0sbw/smp)
+
+### GitHub Binary Matrix Repository:
+[GitHub Repository:] (https://github.com/jjs0sbw/BinaryMatrix)
+
+### GitHub Inference Matrix Repository:
+[GitHub Repository:] (https://github.com/jjs0sbw/InferenceMatrix)
