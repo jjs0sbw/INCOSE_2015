@@ -17,4 +17,12 @@ This associated material includes the following papers presented at INCOSE 2015:
 ### Structural Modeling Framework
 [Link to paper on Research Gate:] (https://www.researchgate.net/publication/279204981_Structural_Modeling_Framework)
 
-[Link to presentation charts on Research Gate:] (https://www.researchgate.net/publication/279205131_Structural_Modeling_Framework_Presentation_Slides_-_SMC_INCOS)
+[Link to presentation charts on Research Gate:] (https://www.researchgate.net/publication/279205131_Structural_Modeling_Framework_Presentation_Slides_-_SMC_INCOSE)
+
+## Other Web Based Resources Supporting INCOSE 2015
+
+### Systems Concepts Web Site:
+[Systems Concept:] (http://systemsconcept.org/)
+
+### Joseph Simpson at Research Gate:
+[Research Gate:] (https://www.researchgate.net/profile/Joseph_Simpson3)
