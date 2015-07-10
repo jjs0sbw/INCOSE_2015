@@ -21,8 +21,19 @@ This associated material includes the following papers presented at INCOSE 2015:
 
 ## Other Web Based Resources Supporting INCOSE 2015
 
-### Systems Concepts Web Site:
+### Systems Concept Web Site:
 [Systems Concept:] (http://systemsconcept.org/)
 
 ### Joseph Simpson at Research Gate:
 [Research Gate:] (https://www.researchgate.net/profile/Joseph_Simpson3)
+
+### Joseph Simpson on Twitter:
+[Twitter:] (https://twitter.com/jjs0sbw)
+
+### Standard Matrix Examples at Systems Concept web site:
+[Standard Matrix Examples] (http://systemsconcept.org/sc_sme_v001/SME.html)
+
+[Zipped File Of Standard Matrix Examples] (http://systemsconcept.org/html/Content/sme_cd_data_v002.zip)
+
+### GitHub Basic Structural Modeling Repository:
+[GitHub Repository:] (https://github.com/jjs0sbw/bsmp)
