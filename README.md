@@ -2,9 +2,13 @@
 This repository contains the materials associated with the INCOSE 2015 tutorial
 named, "Foundational Aspects of System Complexity Reduction."  This tutorial
 covers a wide range of material associated with the work of Systems Concepts.
-This associated material includes the following papers presented at INCOSE 2015:
+This associated material includes the following tutorial presentation material 
+as well as the papers presented at INCOSE 2015:
 
-### Foundational Aspects of System Complexity Reduction
+### Foundational Aspects of System Complexity Reduction (Tutorial Presentation Material)
+[Link to compressed tutorial presentation at the Systems Concepts web site] (http://systemsconcept.org/html/Content/FinTutVer_3.zip)
+
+### Foundational Aspects of System Complexity Reduction (Paper)
 [Link to paper on Research Gate:] (https://www.researchgate.net/publication/279205085_Foundational_Aspects_of_System_Complexity_Reduction)
 
 [Link to presentation charts on Research Gate:] (https://www.researchgate.net/publication/279204985_Foundational_Aspects_of_System_Complexity_Reduction)
